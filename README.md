@@ -4,15 +4,12 @@ A modern blockchain-based cryptocurrency exchange platform built with Web 3.0 te
 
 ## Screenshots
 
-### Transactions View
 ![Transactions Screenshot 1](./images/transactions-1.png)
 
 ![Transactions Screenshot 2](./images/transactions-2.png)
 
-### Ethereum Exchange
 ![Ethereum Exchange](./images/ethereum-exchange.png)
 
-### Application Features
 ![Features](./images/features.png)
 
 ## Features
