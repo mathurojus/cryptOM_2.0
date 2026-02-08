@@ -4,6 +4,12 @@ A modern blockchain-based cryptocurrency exchange platform built with Web 3.0 te
 
 ## Screenshots
 
+![Screenshot 1](./Screenshot-1.png)
+
+![Screenshot 2](./Screenshot-2.png)
+
+![Screenshot 3](./Screenshot-3.png)
+
 ## Features
 
 - **Security Guarantee**: We always maintain privacy and quality of our products
